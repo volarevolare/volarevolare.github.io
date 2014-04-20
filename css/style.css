@@ -2,5 +2,10 @@
   background-color: #BEDAEC
 }
 .inner2{
-  background-color: rgb(250, 144, 144);
+  background-color: rgba(255, 0, 0, 0.72);
+  color: white;
+}
+
+.well p,.well h4,.well h1{
+  color: black;
 }
