@@ -9,3 +9,11 @@
 .well p,.well h4,.well h1{
   color: black;
 }
+
+.sezione{
+  min-height: 40em;
+}
+
+.cento-l{
+  width: 100%;
+}
